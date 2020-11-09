@@ -1,4 +1,0 @@
--java
--javascript lo bàsico
--html y css
-

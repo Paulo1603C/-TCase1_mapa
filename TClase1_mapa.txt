@@ -1,0 +1,13 @@
+﻿-java
+
+-javascript lo bàsico
+
+-html y css
+
+
+//
+Aprender
+-php
+-python
+-c++
+-c
